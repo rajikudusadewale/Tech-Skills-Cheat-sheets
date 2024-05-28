@@ -62,5 +62,3 @@ I'm excited to share a valuable resource repository that can help you master var
 Whether you’re a student, professional, or hobbyist, these cheatsheets are designed to give you the edge you need in your tech journey. Download and start mastering your skills today!
 
 Happy Learning!
-
-[Link to Repository]
